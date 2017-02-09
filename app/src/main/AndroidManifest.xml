@@ -4,11 +4,6 @@
 
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <!--For using the phone calls -->
-    <uses-permission android:name="android.permission.CALL_PHONE" />
-    <!--For reading phone call state-->
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
 
 
